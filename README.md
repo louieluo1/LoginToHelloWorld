@@ -1,5 +1,5 @@
 # LoginToHelloWorld
-本项目工程是使用后端的eggjs和前端的vue实现。
+本项目工程是从零开发和部署一个完整的简单的通过登录访问数据库中hello world，使用后端的eggjs和前端的vue实现。
 
 项目主要实现内容：必须通过登录才能显示首页的hello word(hello world是从数据库中获取的)，否则不能显首页hello world，直接跳到登录页登录后才能回到首页。
 
@@ -14,7 +14,6 @@
 这些内容都是通过学习视频https://www.bilibili.com/video/BV1cy4y1H7iX?p=8&vd_source=62e9f2b75f57a659a0d7c996feebcced，进行的编写代码的。
 
 过几天会再练习做一个前后端的自己博客，通过后台管理编辑内容的后台管理系统和在网站中可以直接浏览内容的博客。
-
 
 
 
